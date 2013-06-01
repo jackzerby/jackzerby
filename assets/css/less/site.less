@@ -1,0 +1,79 @@
+/* ----------------------------------------------------
+            Imports
+----------------------------------------------------- */
+@import "ut.less";
+
+/* ----------------------------------------------------
+            Global
+----------------------------------------------------- */
+body { font-family:'PT Sans', sans-serif; margin:0; padding:0 0 80px 0; }
+
+/* ----------------------------------------------------
+            Typography
+----------------------------------------------------- */
+h1 { margin:0 0 40px 0; font-size:@font_d; line-height:@font_d_line; text-align:center; }
+h1 small { display:block; margin-top:10px; font-size:@font_g; line-height:@font_g_line; }
+h2 { margin:0 0 20px 0; font-size:@font_f; line-height:@font_f_line; text-align:center; }
+h3 { margin:0 0 20px 0; font-size:@font_h; line-height:@font_h_line; text-align:center; }
+p { margin:0 0 15px 0; }
+a { color:inherit; }
+a:hover { color:inherit; }
+li{ margin-bottom:10px; }
+
+/* ----------------------------------------------------
+            Input
+----------------------------------------------------- */
+input[type="text"],
+input[type="input"],
+input[type="password"],
+input[type="email"],
+input[type="number"],
+textarea { margin-bottom:10px; }
+input.site-input-l { margin-bottom:10px; padding:12px; }
+
+/* ----------------------------------------------------
+            Section
+----------------------------------------------------- */
+.site-section-wrapper { padding:80px 0; }
+.site-section-wrapper-first { margin-top:-50px; padding-top:130px; }
+.site-section-a { margin-bottom:80px; }
+.site-section-b { margin-bottom:40px; }
+.site-section-c { margin-bottom:20px; }
+
+/* ----------------------------------------------------
+            Navigation
+----------------------------------------------------- */
+.site-navigation { position:relative; padding:17px 0; text-align:center; font-size:14px; line-height:1; text-transform:uppercase; font-weight:700; letter-spacing:1px; z-index:1; }
+.site-navigation a { display:inline-block; margin:0 5px; border-bottom:2px solid transparent; }
+.site-navigation a:hover { border-bottom:2px solid; text-decoration:none; }
+.site-navigation a.site-navigation-selected { border-bottom:2px solid; }
+.site-navigation-links { display:block; }
+.site-navigation-dropdown { display:none; margin:0; font-size:12px; }
+
+/* ----------------------------------------------------
+            Landscape phone and down
+----------------------------------------------------- */
+@media (max-width:480px) {
+  
+  /* ----------------------------------------------------
+              Global
+  ----------------------------------------------------- */
+  body { margin:0; padding:0 0 80px 0; }
+  
+  /* ----------------------------------------------------
+              Navigation
+  ----------------------------------------------------- */
+  .site-navigation { padding:10px 0 0 0; }
+  .site-navigation-links { display:none; }
+  .site-navigation-dropdown { display:block; }
+  
+  /* ----------------------------------------------------
+              Section
+  ----------------------------------------------------- */
+  .site-section-wrapper { padding:80px 0; }
+  
+  /* ----------------------------------------------------
+              Container
+  ----------------------------------------------------- */
+  .container { padding:0 20px; }
+}
