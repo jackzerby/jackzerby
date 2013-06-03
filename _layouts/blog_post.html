@@ -1,0 +1,12 @@
+---
+layout: blog
+---
+
+<div class="blog-post">
+    <div class="blog-post-img"><img src="/assets/img/{{ page.img }}" /></div>
+    <div class="blog-post-content">
+        <h2 class="blog-post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+        <div class="blog-post-date">{{ page.date | date_to_string }}</div>
+        <div class="blog-post-body">{{ content | markdownify }}</div>
+    </div>
+</div>
