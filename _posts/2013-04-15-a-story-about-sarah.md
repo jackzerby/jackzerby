@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: A story about Sarah...
+description: This is a story about a woman named Sarah White and how she changed my life.
 img: featured_sarah.png
 ---
 

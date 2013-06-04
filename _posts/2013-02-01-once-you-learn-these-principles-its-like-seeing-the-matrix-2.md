@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: Once you learn these principles, its like seeing the Matrix...
+description: If you already built an awesome business/startup and you're too cool for school, don't read anything below this line.
 img: featured_matrix.gif
 ---
 

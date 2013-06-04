@@ -3,5 +3,5 @@ pygments: true
 markdown: rdiscount
 permalink: /:title
 ftp_host: s92309880.onlinehome.us
-ftp_dir: /hub
+ftp_dir: /Hub
 ftp_passive: false

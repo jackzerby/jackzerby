@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: Internet Marketers were growth hacking before growth hacking was cool
+description: Isn't it exciting when you discover a new corner of the Internet?
 img: featured_growth.png
 ---
 

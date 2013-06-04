@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: Motivation is like a shower...
+description: Motivation is like a shower, you can't just do it once and be done with it.
 img: featured_shower.jpg
 ---
 

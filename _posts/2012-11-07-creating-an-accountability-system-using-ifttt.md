@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: Creating an accountability system using IFTTT
+description: Whenever I think my job is tough, I think of Charlie getting paid to get punched in the face.
 img: featured_iftt.png
 ---
 

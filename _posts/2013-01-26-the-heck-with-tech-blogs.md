@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: The heck with Tech blogs...
+description: For the past 3 weeks I've stopped reading all tech news and instead have been obsessively immersed in the world of marketing and copywriting.
 img: featured_techblogs.jpg
 ---
 

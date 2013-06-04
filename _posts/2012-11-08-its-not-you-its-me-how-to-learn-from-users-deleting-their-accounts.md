@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: It's not you it's me. How to learn from users deleting their accounts.
+description: Sometimes it hurts to hear why people delete their accounts on your site; but if you look closer, there is a lot to learn. 
 img: featured_itsnotyou.jpg
 ---
 

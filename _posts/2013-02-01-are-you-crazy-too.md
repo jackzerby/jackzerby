@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: Are you crazy too?
+description: I had lunch last week with entrepreneur and all around great guy Bobby Goshal, founder of Flud.
 img: featured_crazy.jpg
 ---
 

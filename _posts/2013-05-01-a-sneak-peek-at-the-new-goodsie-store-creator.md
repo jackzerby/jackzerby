@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: A sneak peek at the new Goodsie Store Creator
+description: Take a look!
 img: featured_goodsie.png
 ---
 

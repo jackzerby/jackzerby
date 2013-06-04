@@ -1,6 +1,7 @@
 ---
 layout: blog_post
 title: Never mind the Paypal Mafia, the Vimeo Mafia is where it's at...
+description: Please let me know if I forgot anyone
 img: featured_vimeo.png
 ---
 
