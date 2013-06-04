@@ -1,7 +1,7 @@
 name: jackzerby
 pygments: true
+markdown: rdiscount
 permalink: /:title
-auto: true
 ftp_host: s92309880.onlinehome.us
 ftp_dir: /hub
 ftp_passive: false
