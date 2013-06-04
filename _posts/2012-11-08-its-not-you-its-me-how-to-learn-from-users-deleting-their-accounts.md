@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 title: It's not you it's me. How to learn from users deleting their accounts.
-img: featured_techblogs.jpg
+img: featured_itsnotyou.jpg
 ---
 
 Sometimes it hurts to hear why people delete their accounts on your site; but if you look closer, there is a lot to learn. On a whim, I decided to put a simple Google Docs form on our account deletion page.

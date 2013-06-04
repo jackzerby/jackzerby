@@ -3,10 +3,21 @@ layout: blog
 ---
 
 <div class="blog-post">
-    <div class="blog-post-img"><img src="/assets/img/{{ page.img }}" /></div>
+    <div class="blog-post-img"><a href="{{ page.url }}"><img src="/assets/img/{{ page.img }}" /></a></div>
     <div class="blog-post-content">
         <h2 class="blog-post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
         <div class="blog-post-date">{{ page.date | date_to_string }}</div>
-        <div class="blog-post-body">{{ content | markdownify }}</div>
+        <div class="blog-post-body">{{ content }}</div>
+        <div class="blog-post-disqus">
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                var disqus_shortname = 'jackzerby';
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+        </div>
     </div>
 </div>

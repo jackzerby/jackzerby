@@ -4,45 +4,45 @@ title: The heck with Tech blogs...
 img: featured_techblogs.jpg
 ---
 
-For the past 3 weeks I’ve stopped reading all tech news and instead have been obsessively immersed in the world of marketing and copywriting.
+For the past 3 weeks I've stopped reading all tech news and instead have been obsessively immersed in the world of marketing and copywriting.
 
 <!-- more -->
 
 I took pages and pages of notes, and drove my wife Marisa **crazy** talking about it non-stop.
 
-Not just modern marketing, but WAY back to the 50’s, 60’s, 70’s, 80’s. (I threw in some newer stuff at the end).
+Not just modern marketing, but WAY back to the 50's, 60's, 70's, 80's. (I threw in some newer stuff at the end).
 
 The **REAL** stuff. Where it all started.
 
-You may be thinking JACK, I’m a designer, I’m a CEO, I’m a VP of Flippity Flop at Flippity dot com, why should I care about marketing?
+You may be thinking JACK, I'm a designer, I'm a CEO, I'm a VP of Flippity Flop at Flippity dot com, why should I care about marketing?
 
 **Everyone is a marketer.**
 
-In fact, last night, my wife Marisa used a legendary marketing technique called “Price Anchoring” (Steve Jobs was a master at this)
+In fact, last night, my wife Marisa used a legendary marketing technique called "Price Anchoring" (Steve Jobs was a master at this)
 
-*   Marisa: _“JACKIE I just got this Jacket ON SALE for $255 that was originally over $365!”_
-*   Me: _“So you spent $255?...”_
-*   Marisa:_ “But I COULD have spent $365, we got a DEAL and SAVED $110. DUH!”_
-*   Me: _“sigh...”_
-So hear me out and I **promise** you’ll find something below that will help you build your business.
+*   Marisa: _"JACKIE I just got this Jacket ON SALE for $255 that was originally over $365!"_
+*   Me: _"So you spent $255?..."_
+*   Marisa:_ "But I COULD have spent $365, we got a DEAL and SAVED $110. DUH!"_
+*   Me: _"sigh..."_
+So hear me out and I **promise** you'll find something below that will help you build your business.
 
 ## Gary Halbert - Copywriting Legend
 
 All of the copywriters I found pointed to Gary as the best copywriter of all time. The guy is a legend. (He passed away a few years ago sadly)
 
-Here’s what you can learn from Gary:
+Here's what you can learn from Gary:
 
 *   I read 26 letters (called the Boron Letters) Gary wrote to his son teaching him all his secrets of marketing and copywriting.
 *   The **CRAZY** part was he wrote these while he was in **JAIL**.
-*   One minute he’s breaking down the psychology of a sale, and the next he’s dropping his pen to avoid a prison fight. Intense.
+*   One minute he's breaking down the psychology of a sale, and the next he's dropping his pen to avoid a prison fight. Intense.
 *   He was preaching Lean Startup techniques **WAY** before it was cool. Check out these excerpts:
 
-    *   “You Don't Have To Get It Right...You Just Have To Get It MOVING”
-    *   “But, what's important, really important, is to find out if your idea has any merit as fast as possible!”
-    *   “I want to burn this message into your mind. Be skeptical of what people say. Be skeptical of surveys. Of questionnaires. Instead, believe in numbers.”
-    *   “You Must Always Find A Market First...And Then Concentrate On A Product!”
-    *   “The mistake is finding or developing a product FIRST and then looking for a market to sell it to. This is backasswards.”
-**Check out Gary’s stuff:**
+    *   "You Don't Have To Get It Right...You Just Have To Get It MOVING"
+    *   "But, what's important, really important, is to find out if your idea has any merit as fast as possible!"
+    *   "I want to burn this message into your mind. Be skeptical of what people say. Be skeptical of surveys. Of questionnaires. Instead, believe in numbers."
+    *   "You Must Always Find A Market First...And Then Concentrate On A Product!"
+    *   "The mistake is finding or developing a product FIRST and then looking for a market to sell it to. This is backasswards."
+**Check out Gary's stuff:**
 
 *   [Boron Letters - Chapter 1](http://www.thegaryhalbertletter.com/Boron/BoronLetterCh1.htm)
 *   [The Gary Halbert Letter Archives](http://www.thegaryhalbertletter.com/newsletter-archives.htm)
@@ -51,7 +51,7 @@ Here’s what you can learn from Gary:
 
 Last week I listened to 2 hours of very old recorded speeches from this guy and was blown away. His book "Breakthrough Advertising" goes for $175 on Amazon because it's out of print and very rare.
 
-Here’s what you can learn from Eugene:
+Here's what you can learn from Eugene:
 
 *   **Be the best listener you know**
 
@@ -101,10 +101,10 @@ Dane is a lot younger (30's) than these old guys, but is REALLY smart when it co
 
 He's never been featured onTechcrunch or Mashable, but the dude has created a 500k/year software business without one dime of VC money.
 
-Here’s a couple things you can learn from Dane:
+Here's a couple things you can learn from Dane:
 
 *   Be **CLEAR** not **CLEVER** when writing copy for your site
-*   It’s not about your **PRODUCT**, it’s about your **CUSTOMER**
+*   It's not about your **PRODUCT**, it's about your **CUSTOMER**
 *   If you can describe the customers problem better than they can, then they will assume you have the solution
 *   Think of your solution first in terms of the **benefits**. Not the **features**. Every feature is there to get the client a benefit not to get them a feature.
 **Check out Danes stuff:**
@@ -147,7 +147,7 @@ Here's a few things I picked up in his materials:
 
 ## That's all folks!
 
-If you want my **full notes** on any of this stuff, shoot me an email and I’ll share my Google docs with you.
+If you want my **full notes** on any of this stuff, shoot me an email and I'll share my Google docs with you.
 
 If you have any feedback on this first email, please let me know!
 PS. If you want an insane amount of interviews and information check out [Mixergy](http://mixergy.com). The founder, Andrew Warner has interviewed 795 entreprenuers (Founder of Wikipedia, Founder of Groupon, etc...) and has 87 courses on just about everything related to business.

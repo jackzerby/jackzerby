@@ -5,6 +5,7 @@ img: featured_vimeo.png
 ---
 
 **Casey Pugh** Founder of [VHX](http://vhx.tv) and [Star Wars Uncut](http://www.starwarsuncut.com/).
+
 <!-- more -->
 
 **Patrick Moberg** - Creator of [Dots](https://itunes.apple.com/us/app/dots-a-game-about-connecting/id632285588?mt=8) (and [NY Post Superstar](http://www.nypost.com/p/news/regional/item_aPC53HBd7ng4OPSlBoOWWP)). Building at [Betaworks](http://betaworks.com).

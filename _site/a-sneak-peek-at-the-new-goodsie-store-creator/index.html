@@ -7,13 +7,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="title" content="A sneak peek at the new Goodsie Store Creator" />
         <meta name="description" content="<!-- more -->
-<iframe src="http://player.vimeo.com/video/61216449?portrait=0" width="100%" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
 
 " />
         <meta property="og:site_name" content="A sneak peek at the new Goodsie Store Creator" />
         <meta property="og:title" content="A sneak peek at the new Goodsie Store Creator" />
         <meta property="og:description" content="<!-- more -->
-<iframe src="http://player.vimeo.com/video/61216449?portrait=0" width="100%" height="400" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
 
 " />
         <meta property="og:type" content="company" />
@@ -54,13 +52,23 @@
     <div class="container">
       <div class="row">
         <div class="blog-posts offset1 span7"><div class="blog-post">
-    <div class="blog-post-img"><img src="/assets/img/featured_goodsie.png" /></div>
+    <div class="blog-post-img"><a href="/a-sneak-peek-at-the-new-goodsie-store-creator"><img src="/assets/img/featured_goodsie.png" /></a></div>
     <div class="blog-post-content">
         <h2 class="blog-post-title"><a href="/a-sneak-peek-at-the-new-goodsie-store-creator">A sneak peek at the new Goodsie Store Creator</a></h2>
         <div class="blog-post-date">01 May 2013</div>
-        <div class="blog-post-body"><!-- more --><pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
-&lt;iframe src=&quot;http://player.vimeo.com/video/61216449?portrait=0&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;</pre>
+        <div class="blog-post-body"><!-- more --><iframe frameborder='0' height='400' src='http://player.vimeo.com/video/61216449?portrait=0' width='100%' />
 <p><a href='http://vimeo.com/61216449'>Goodsie - The most powerful and intuitive e-commerce design system yet.</a> from <a href='http://vimeo.com/hiidef'>Hiidef</a> on <a href='http://vimeo.com'>Vimeo</a>.</p></div>
+        <div class="blog-post-disqus">
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+                var disqus_shortname = 'jackzerby';
+                (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+        </div>
     </div>
 </div></div>
         <div class="blog-sidebar span3">
@@ -79,7 +87,7 @@
                 <div id="mc_embed_signup" class="blog-sidebar-newsletter-signup">
                     <form action="http://jackzerby.us2.list-manage1.com/subscribe/post?u=0eb0292491cb28ac786781e20&amp;id=14e0fd1a56" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
                         <input type="email" value="" name="EMAIL" id="mce-EMAIL" class="span3" placeholder="Enter your email" required="" />
-                        <input type="submit" value="Get Updates" name="subscribe" id="mc-embedded-subscribe" class="btn btn-info" />
+                        <input type="submit" value="Get Updates" name="subscribe" id="mc-embedded-subscribe" class="btn btn-info"  data-category="CTA" data-action="click" data-label="Newsletter Subscribe Sidebar" />
                     </form>
                 </div>
             </div>
@@ -91,15 +99,22 @@
         <!-- Javascript -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
         <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+        <script src="../assets/js/jquery.ga.js"></script>
+        <script src="../assets/js/site.js"></script>
         
         <!-- Javascript / Google Analytics -->
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-          ga('create', 'UA-129923-5', 'jackzerby.com');
-          ga('send', 'pageview');
+        <script type="text/javascript">
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-129923-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
         </script>
     </body>
 </html>

@@ -1,3 +1,7 @@
-name: hello
+name: jackzerby
 pygments: true
 permalink: /:title
+auto: true
+ftp_host: s92309880.onlinehome.us
+ftp_dir: /hub
+ftp_passive: false

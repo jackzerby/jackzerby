@@ -133,7 +133,7 @@ Here's what's covered in the interview:
 *   Why you should build a Minimum Viable Audience before anything else
 *   How to build a profitable business around content marketing
 *   How to succeed in business without outside funding
-*   Why focus groups and surveys don’t work
+*   Why focus groups and surveys don't work
 *   How to find and build a product that people actually want
 *   How Brian built Copyblogger with a Minimum Viable Audience
 [http://www.copyblogger.com/minimum-viable-audience/](http://www.copyblogger.com/minimum-viable-audience/)
@@ -200,9 +200,9 @@ I followed his advice, and when my friend Justin and I wanted to build an app fo
 
 [MarketingMindsetFreeReport.pdf](http://thefoundation.io/wp-content/uploads/2012/09/TheFoundation-MarketingMindsetFreeReport.pdf)
 
-## Steve Jobs’ Unfortunate Contribution to Product Development
+## Steve Jobs' Unfortunate Contribution to Product Development
 
-"The answer is usually along the lines of, “it’s a really great idea and we use the product so much, we know our customers will.” But how do you know the idea will succeed, have you tested it with your customers? Ah, but Steve Jobs didn’t do market tests when he created the iPhone, he just made it."
+"The answer is usually along the lines of, "it's a really great idea and we use the product so much, we know our customers will." But how do you know the idea will succeed, have you tested it with your customers? Ah, but Steve Jobs didn't do market tests when he created the iPhone, he just made it."
 
 [http://blog.teamtreehouse.com/steve-jobs-unfortunate-contribution-to-product-development](http://blog.teamtreehouse.com/steve-jobs-unfortunate-contribution-to-product-development)
 
