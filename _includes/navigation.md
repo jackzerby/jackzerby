@@ -5,6 +5,7 @@
         <a href="/about">About</a>
         <a href="/live">Live</a>
         <a href="/newsletter">Newsletter</a>
+        <a href="/recommend">Recommend</a>
         <a href="/courses">Courses</a>
         <a href="/music">Music</a> 
         <a href="/contact">Contact</a>
