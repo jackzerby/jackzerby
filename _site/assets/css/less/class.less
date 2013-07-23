@@ -13,7 +13,7 @@ body { background:; color:#222222; font-family:"Open Sans", sans-serif; }
 ----------------------------------------------------- */
 a { color:#F26D00; }
 h1 { margin-bottom:40px; font-size:@font_c; line-height:@font_c_line; font-weight:800; }
-h1 small { padding:0 120px; font-size:@font_e; line-height:@font_e_line; color:#222222; font-family: 'Shadows Into Light', cursive; }
+h1 small { padding:0 120px; font-size:@font_f; line-height:@font_f_line; color:#222222; }
 h1 span { display:block; margin-top:20px; font-size:@font_g; line-height:@font_g_line; }
 h2 { font-weight:normal; text-align:center; font-weight:800; }
 h3 { font-weight:700; font-size:@font_g; line-height:@font_g_line; }
@@ -26,13 +26,13 @@ h3 { font-weight:700; font-size:@font_g; line-height:@font_g_line; }
 /* ----------------------------------------------------
             Header
 ----------------------------------------------------- */
-.class-header { padding:180px 0; background:url("../../img/bg-class.jpg") white top center; }
-.class-header-cta { padding:25px 80px; }
+.class-header { padding:180px 0; background:url("../../img/bg-class.jpg") #C7E3F5 top center; }
+.class-header-cta { padding:25px 55px; font-size:@font_h; }
 
 /* ----------------------------------------------------
             Section
 ----------------------------------------------------- */
-.site-section-wrapper { padding:120px 0; }
+.site-section-wrapper { padding:120px 0; border-bottom:3px solid rgba(0,0,0,.15); }
 
 /* ----------------------------------------------------
             Learn
@@ -41,7 +41,7 @@ h3 { font-weight:700; font-size:@font_g; line-height:@font_g_line; }
 .class-learn { min-height:240px; }
 .class-learn h3 { text-align:center; }
 .class-learn-number { position:relative; margin:50px 0; text-align:center; border-top:1px solid #cccccc; }
-.class-learn-number span { display:inline-block; position:absolute; top:0; left:50%; margin:-25px 0 0 -25px; width:50px; height:50px; font-weight:800; font-size:32px; line-height:50px; color:white; background:#27ae60; .ut-border-radius(100%); }
+.class-learn-number span { display:inline-block; position:absolute; top:0; left:50%; margin:-25px 0 0 -25px; width:50px; height:50px; font-weight:800; font-size:32px; line-height:50px; color:white; background:#999999; .ut-border-radius(100%); }
 
 /* ----------------------------------------------------
             Qualify
@@ -52,14 +52,14 @@ h3 { font-weight:700; font-size:@font_g; line-height:@font_g_line; }
 /* ----------------------------------------------------
             Teaching
 ----------------------------------------------------- */
-.class-section-teaching {}
+.class-section-teaching { }
 .class-section-teaching a { color:#D95044; }
 .class-section-teaching img { border:10px solid #cccccc; .ut-border-radius(100%); .ut-box-sizing(border-box); }
 
 /* ----------------------------------------------------
             Plans
 ----------------------------------------------------- */
-.class-section-plans { background:lighten(#3498db, 34%); }
+.class-section-plans { background:lighten(#5BD783, 30%); }
 .class-plan { text-align:center; padding:20px; min-height:339px; background:white; border-top:10px solid; }
 .class-plan-price { margin-bottom:20px; color:#999999; font-size:@font_f; line-height:@font_f_line; }
 .class-plan-bullets { margin:0 0 20px 0; list-style:none; }
@@ -70,8 +70,18 @@ h3 { font-weight:700; font-size:@font_g; line-height:@font_g_line; }
             Questions
 ----------------------------------------------------- */
 .class-section-questions { }
-.class-questions-email {}
-.class-questions-email input[type="email"]{ width:300px; }
+.class-section-questions input[type="email"] { width:200px; }
 
+/* ----------------------------------------------------
+            Involved
+----------------------------------------------------- */
+.class-section-involved { background:#eeeeee; }
+.class-section-involved input[type="email"] { width:200px; }
 
+/* ----------------------------------------------------
+            Landscape phone and down
+----------------------------------------------------- */
+@media (max-width:480px) {
+  h1 small { padding:0; }
+}
 
