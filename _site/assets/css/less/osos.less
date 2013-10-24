@@ -6,7 +6,7 @@
 /* ----------------------------------------------------
             Global
 ----------------------------------------------------- */
-body { background:; color:#222222; font-family:"Open Sans", sans-serif; }
+body { background:; color:#222222; font-family:'Droid Serif', serif; }
 
 /* ----------------------------------------------------
             Typography
@@ -24,49 +24,21 @@ h3 { font-weight:700; font-size:@font_g; line-height:@font_g_line; }
 .site-navigation { display:none; }
 
 /* ----------------------------------------------------
-            Section
+            Content
 ----------------------------------------------------- */
-.site-section-wrapper { padding:120px 0; border-bottom:3px solid rgba(0,0,0,.15); }
+.osos-content { padding:40px 0; }
 
 /* ----------------------------------------------------
-            Logo
+            Banner
 ----------------------------------------------------- */
-.osos-logo { display:inline-block; margin-bottom:40px; }
+.osos-banner { background-color:black; }
+.osos-banner-img { display:block; margin:0 auto; width:300px; }
 
 /* ----------------------------------------------------
-            Header
+            Capture
 ----------------------------------------------------- */
-.osos-header { padding:90px 0; color:white; background:url("http://jackzerby.com/assets/img/osos-bg.jpg") #221E1F top center; }
-.osos-header-cta { padding:25px 55px; font-size:@font_h; font-weight:700; color:black; background:#F4C500; }
+.osos-capture:after { .ut-clear(); }
+.osos-capture input.osos-capture-name { width:180px; margin:0; }
+.osos-capture input.osos-capture-email { width:180px; margin:0; }
 
-/* ----------------------------------------------------
-            About
------------------------------------------------------ */
-.osos-section-about { background:url("http://jackzerby.com/assets/img/osos-bg-shooter.jpg") #eeeeee bottom left no-repeat; }
-
-/* ----------------------------------------------------
-            Skills
------------------------------------------------------ */
-.osos-section-skills { color:white; background:url("http://jackzerby.com/assets/img/osos-bg.jpg") #221E1F top center; }
-
-/* ----------------------------------------------------
-            Teaching
------------------------------------------------------ */
-.osos-section-teaching { }
-.osos-section-teaching a { color:#D95044; }
-.osos-section-teaching img { border:10px solid #cccccc; .ut-border-radius(100%); .ut-box-sizing(border-box); }
-
-/* ----------------------------------------------------
-            Apply
------------------------------------------------------ */
-.osos-section-apply { background:#eeeeee; }
-.osos-section-apply input[type="email"] { width:200px; }
-
-/* ----------------------------------------------------
-            Landscape phone and down
------------------------------------------------------ */
-@media (max-width:480px) {
-  h1 small { padding:0; }
-  .osos-section-about { background-image:none; }
-}
 
