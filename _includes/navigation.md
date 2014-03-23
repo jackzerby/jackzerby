@@ -3,7 +3,6 @@
         <span>Jack Zerby : </span>
         <a href="/">Blog</a>
         <a href="/about">About</a>
-        <a href="/live">Live</a>
         <a href="/newsletter">Newsletter</a>
         <a href="/recommend">Recommend</a>
         <a href="/courses">Courses</a>
