@@ -5,4 +5,4 @@ permalink: /:title
 ftp_host: s92309880.onlinehome.us
 ftp_dir: /Hub
 ftp_passive: false
-url: http://localhost:4000
+url: http://jackzerby.com
