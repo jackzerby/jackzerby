@@ -18,11 +18,6 @@
         <!-- CSS -->
         <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.no-icons.min.css" rel="stylesheet" type="text/css" />
         <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet" type="text/css" />
-        <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
-        <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css' />
-        <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic' rel='stylesheet' type='text/css' />
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,800' rel='stylesheet' type='text/css' />
-        <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
         <link href="{{ site.url }}/assets/css/min/site.css" rel="stylesheet" type="text/css" />
         <link href="{{ site.url }}/assets/css/min/{{ page.css }}.css" rel="stylesheet" type="text/css" />
         
@@ -30,7 +25,6 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
         <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
         <script src="{{ site.url }}/assets/js/site.js"></script>
-        <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
         {{ page.js }}
         
         <!-- Javascript / Google Analytics -->
@@ -39,16 +33,14 @@
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
           })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
           ga('create', 'UA-41466276-1', 'jackzerby.com');
           ga('send', 'pageview');
-
         </script>
    </head>
     <body class="site">
         
-        <!-- Navigation -->
-        {% include navigation.md %}
+        <!-- Navigation 
+        {% include navigation.md %}-->
         
         <!-- Content -->
         {{ content }}
